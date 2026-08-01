@@ -11,7 +11,8 @@ M'agrada entendre com funcionen les tecnologies que utilitzo. Crec que conèixer
 La curiositat és el motor del meu aprenentatge. Sempre estic explorant noves eines, arquitectures i metodologies que m'ajudin a continuar creixent tant personalment com professionalment.
 
 🚀 Tecnologies i àrees d'interès
-Desenvolupament
+
+**** Desenvolupament
 PHP
 HTML5
 CSS3
@@ -19,7 +20,8 @@ JavaScript
 SQL
 Arquitectura MVC
 APIs REST
-Sistemes
+
+**** Sistemes
 Linux
 Docker
 Proxmox VE
@@ -27,16 +29,18 @@ Nginx
 Apache
 MariaDB / MySQL
 Git
-M'interessa especialment
+
+**** M'interessa especialment
 Arquitectura de programari
 Frameworks i eines pròpies
 Automatització de processos
 Virtualització i contenidors
 DevOps
 Homelab i autoallotjament (Self-hosting)
+
 🌱 Filosofia
 
-"La millor manera d'entendre una tecnologia és construir-la, experimentar-hi i qüestionar-se com funciona."
+>"La millor manera d'entendre una tecnologia és construir-la, experimentar-hi i qüestionar-se com funciona."
 
 📫 Contacte
 
