@@ -1,4 +1,5 @@
 👋 Hola, soc Dídac Llamas
+
 💻 Sobre mi
 
 Soc un professional del sector TIC amb formació en Administració de Sistemes Informàtics (ASI) i Desenvolupament d'Aplicacions Web (DAW).
@@ -47,7 +48,3 @@ Si vols comentar algun projecte, compartir idees o simplement parlar de tecnolog
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=didacllamas&show_icons=true&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=didacllamas&layout=compact&theme=github_dark)
