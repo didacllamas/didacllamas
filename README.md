@@ -13,30 +13,30 @@ La curiositat és el motor del meu aprenentatge. Sempre estic explorant noves ei
 ## 🚀 Tecnologies i àrees d'interès
 
 #### Desenvolupament
-PHP
-HTML5
-CSS3
-JavaScript
-SQL
-Arquitectura MVC
-APIs REST
+* PHP
+* HTML5
+* CSS3
+* JavaScript
+* SQL
+* Arquitectura MVC
+* APIs REST
 
 #### Sistemes
-Linux
-Docker
-Proxmox VE
-Nginx
-Apache
-MariaDB / MySQL
-Git
+* Linux
+* Docker
+* Proxmox VE
+* Nginx
+* Apache
+* MariaDB / MySQL
+* Git
 
 #### M'interessa especialment
-Arquitectura de programari
-Frameworks i eines pròpies
-Automatització de processos
-Virtualització i contenidors
-DevOps
-Homelab i autoallotjament (Self-hosting)
+* Arquitectura de programari
+* Frameworks i eines pròpies
+* Automatització de processos
+* Virtualització i contenidors
+* DevOps
+* Homelab i autoallotjament (Self-hosting)
 
 ## 🌱 Filosofia
 
