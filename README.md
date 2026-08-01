@@ -9,7 +9,7 @@ Al llarg de la meva trajectòria he combinat el desenvolupament de programari am
 M'agrada entendre com funcionen les tecnologies que utilitzo. Crec que conèixer els fonaments permet prendre millors decisions tècniques, escriure codi més mantenible i construir solucions sòlides i reutilitzables.
 
 La curiositat és el motor del meu aprenentatge. Sempre estic explorant noves eines, arquitectures i metodologies que m'ajudin a continuar creixent tant personalment com professionalment.
-___
+
 ## 🚀 Tecnologies i àrees d'interès
 
 #### Desenvolupament
@@ -37,12 +37,12 @@ Automatització de processos
 Virtualització i contenidors
 DevOps
 Homelab i autoallotjament (Self-hosting)
-___
-🌱 Filosofia
+
+## 🌱 Filosofia
 
 >"La millor manera d'entendre una tecnologia és construir-la, experimentar-hi i qüestionar-se com funciona."
-___
-📫 Contacte
+
+## 📫 Contacte
 
 Si vols comentar algun projecte, compartir idees o simplement parlar de tecnologia, estaré encantat de connectar-hi.
 
