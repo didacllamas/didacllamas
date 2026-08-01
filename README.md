@@ -1,6 +1,6 @@
-👋 Hola, soc Dídac Llamas
+# 👋 Hola, soc Dídac Llamas
 
-💻 Sobre mi
+## 💻 Sobre mi
 
 Soc un professional del sector TIC amb formació en Administració de Sistemes Informàtics (ASI) i Desenvolupament d'Aplicacions Web (DAW).
 
@@ -9,10 +9,10 @@ Al llarg de la meva trajectòria he combinat el desenvolupament de programari am
 M'agrada entendre com funcionen les tecnologies que utilitzo. Crec que conèixer els fonaments permet prendre millors decisions tècniques, escriure codi més mantenible i construir solucions sòlides i reutilitzables.
 
 La curiositat és el motor del meu aprenentatge. Sempre estic explorant noves eines, arquitectures i metodologies que m'ajudin a continuar creixent tant personalment com professionalment.
+___
+## 🚀 Tecnologies i àrees d'interès
 
-🚀 Tecnologies i àrees d'interès
-
-**** Desenvolupament
+#### Desenvolupament
 PHP
 HTML5
 CSS3
@@ -21,7 +21,7 @@ SQL
 Arquitectura MVC
 APIs REST
 
-**** Sistemes
+#### Sistemes
 Linux
 Docker
 Proxmox VE
@@ -30,18 +30,18 @@ Apache
 MariaDB / MySQL
 Git
 
-**** M'interessa especialment
+#### M'interessa especialment
 Arquitectura de programari
 Frameworks i eines pròpies
 Automatització de processos
 Virtualització i contenidors
 DevOps
 Homelab i autoallotjament (Self-hosting)
-
+___
 🌱 Filosofia
 
 >"La millor manera d'entendre una tecnologia és construir-la, experimentar-hi i qüestionar-se com funciona."
-
+___
 📫 Contacte
 
 Si vols comentar algun projecte, compartir idees o simplement parlar de tecnologia, estaré encantat de connectar-hi.
